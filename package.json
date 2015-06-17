@@ -19,9 +19,9 @@
     "url": "https://github.com/zicolimongi/cefet-web-geiser/issues"
   },
   "homepage": "https://github.com/zicolimongi/cefet-web-geiser#readme",
-
   "dependencies": {
     "express": "latest",
-    "hbs": "latest"
+    "hbs": "latest",
+    "underscore": "^1.8.3"
   }
 }
