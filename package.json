@@ -1,0 +1,27 @@
+{
+  "name": "cefet-web-geiser",
+  "version": "1.0.0",
+  "description": "Pratica da Disiciplina de Programação Web. Iremos criar um Geiser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zicolimongi/cefet-web-geiser.git"
+  },
+  "keywords": [
+    "geiser"
+  ],
+  "author": "Zico Limongi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zicolimongi/cefet-web-geiser/issues"
+  },
+  "homepage": "https://github.com/zicolimongi/cefet-web-geiser#readme",
+
+  "dependencies": {
+    "express": "latest",
+    "hbs": "latest"
+  }
+}
